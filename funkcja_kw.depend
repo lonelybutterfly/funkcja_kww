@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537535259 source:c:\users\m.roguska\desktop\funkcja_kw\main.cpp
+	<iostream>
+	<math.h>
+
